@@ -3,13 +3,7 @@
 ## Overview
 This project analyzes sales data for **EmporiUm**, a fictional student bookstore chain selling books, tech gear, art supplies, and more — both in-store and online. The goal is to compare sales performance across two assigned sales territories and deliver actionable insights to the marketing team.
 
-## Project Structure
-```
-Capstone_2/
-├── README.md
-├── capstone_2.ipynb       # Main Jupyter Notebook with full analysis
-└── data/                  # Source data files
-```
+
 
 ## Analysis Summary
 The Jupyter Notebook walks through:
@@ -32,4 +26,4 @@ The Jupyter Notebook walks through:
 ## How to Run
 1. Clone this repository
 2. Install dependencies: `pip install pandas matplotlib jupyter`
-3. Launch the notebook: `jupyter notebook capstone_2.ipynb`
+3. Launch the notebook: `jupyter notebook omer_sales_analysis.ipynb`
