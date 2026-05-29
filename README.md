@@ -21,7 +21,7 @@ The Jupyter Notebook walks through:
 - Jupyter Notebook
 
 ## Video Demo
-*Link to be added upon completion.*
+https://drive.google.com/file/d/1vlTcEFcm27eUWvVCou0YAYvtTpgbU3sV/view?usp=sharing
 
 ## How to Run
 1. Clone this repository
